@@ -1,5 +1,5 @@
 # miniPascal-interpreter
-A interpreter for miniPascal 
+A interpreter for miniPascal, first practical project of the Subject Programming Languages.
 
 ## How to compile 
 Just run the command ```make``` on root of the project. 
