@@ -1,0 +1,12 @@
+program simple;
+
+var
+  a;
+
+begin
+  write('Value: ');
+  readln(a);
+
+  write('You entered: ');
+  writeln(a)
+end.
